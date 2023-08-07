@@ -16,7 +16,7 @@ def generate_response(prompt):
     return message
  
  
-st.header("Dialogue System Situated Visual Context (Demo)")
+st.header("Care Assistant System (Demo)")
  
 if 'generated' not in st.session_state:
     st.session_state['generated'] = []

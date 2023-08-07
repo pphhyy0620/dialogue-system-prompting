@@ -1,4 +1,4 @@
-# Care Assistant System using LLM's prompting
+# Care Assistant System with LLM's prompting
 
 - 이 프로젝트에서는 LLM의 prompt를 이용해 assistant라는 role을 부여해줌으로써 assistant의 역할이 가능해지도록 하였고,
 - 현재 추가적으로 해야할 연구 부분은 visual description을 prompt로 이용하여 사람의 이상행동을 반영하여는 assistant를 만드는 것입니다.
